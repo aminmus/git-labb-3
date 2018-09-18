@@ -1,2 +1,3 @@
 # git-labb-3
-Merges and conflicts
+Merges and conflicts.
+Let´s do this.
