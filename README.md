@@ -1,5 +1,5 @@
 # git-labb-3
-Merges and conflicts.
-Let´s do this.
+#Merges and conflicts.
+##Let´s do this.
 
-Read this please.
+##Read this please.
